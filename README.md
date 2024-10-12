@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is My First Git Repository.
 <br>
-Author - Chaudhary Dinesh
+Author - Chaudhary Dinesh Apna college
